@@ -1,6 +1,12 @@
 statmnt1
 statement2
 statmnt3
+<<<<<<< Updated upstream
 stmnt6
 stmnt8
 stmnt9
+=======
+statmnt4
+statmnt5
+stmnt7
+>>>>>>> Stashed changes
